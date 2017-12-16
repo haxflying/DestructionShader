@@ -1,3 +1,3 @@
 # DestructionShader
-Unity Destruction made with geometry shader
-![image](https://github.com/haxflying/DestructionShader/blob/master/rapidDemo.gif)
+Unity Destruction made with geometry shader (Code in develop branch)
+![image](https://github.com/haxflying/DestructionShader/blob/master/rapid_0.gif)
